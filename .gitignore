@@ -1,0 +1,30 @@
+# macOS-related files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+__MACOSX/
+
+# IntelliJ IDEA
+.idea/
+
+#VSCode
+.vscode/
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Test reports
+/target/
+/test-output/
